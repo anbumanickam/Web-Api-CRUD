@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "name": "C#: WebApi [Default Configuration]",
+            "type": "dotnet",
+            "request": "launch",
+            "projectPath": "${workspaceFolder}\\WebApi.csproj"
+        }
+    ]
+}
